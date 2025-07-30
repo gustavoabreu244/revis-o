@@ -1,0 +1,73 @@
+/* configuraçoes padrão */
+*{
+    box-sizing: border-box;
+
+}
+body{
+    margin: 0;
+    padding: 0;
+
+}
+/* mexendo nas tegs */
+header{
+    width: 100%;
+    height: 15vh;
+    border: solid 3px black;
+    background-image: url(https://s2-g1.glbimg.com/HEtThoe68yi56U7AyvejuL-h2dQ=/0x0:6528x3708/984x0/smart/filters:strip_icc/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/Y/1/3Bwc6USbqSfO0HPRRE0w/befunky-collage-4-1-.jpg);
+    background-size: contain;
+}
+header h1{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 40px;
+    color: white;
+    -webkit-text-stroke: 2px black;
+}
+main{
+    height: 100vh;
+    width: 100%;
+    border: solid 3px red;
+
+}
+main h2{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+main ul{
+    text-align: center;
+    list-style-position: inside;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+
+}
+main #mexirica{
+    border: solid 3px purple;
+    width: 30%;
+    margin: auto;
+    background-image: url(https://wallpapers.com/images/featured/fundo-de-cor-simples-4nyuafvmzjeboev9.jpg);
+    border-radius: 50px;
+}
+main #mx{
+    text-align: center;
+}
+main #mexirica h3,p{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+
+}
+main #mexirica img{
+    width: 300px;
+    height: 300px;
+    display: block;
+    margin: auto;
+    padding: 30px;
+    border-radius: 50px;
+    border-color: red;
+}
+footer{
+    height: 10vh;
+    width: 100%;
+    border: solid 3px green;
+    background-image: url(https://wallpapers.com/images/featured/fundo-de-cor-simples-4nyuafvmzjeboev9.jpg);
+}
