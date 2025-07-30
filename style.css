@@ -24,7 +24,7 @@ header h1{
     -webkit-text-stroke: 2px black;
 }
 main{
-    height: 100vh;
+    height: 255vh;
     width: 100%;
     border: solid 3px red;
 
@@ -41,14 +41,11 @@ main ul{
 
 }
 main #mexirica{
-    border: solid 3px purple;
+    border: solid 3px rgb(255, 136, 0);
     width: 30%;
     margin: auto;
     background-image: url(https://wallpapers.com/images/featured/fundo-de-cor-simples-4nyuafvmzjeboev9.jpg);
     border-radius: 50px;
-}
-main #mx{
-    text-align: center;
 }
 main #mexirica h3,p{
     text-align: center;
@@ -57,6 +54,94 @@ main #mexirica h3,p{
 
 }
 main #mexirica img{
+    width: 300px;
+    height: 300px;
+    display: block;
+    margin: auto;
+    padding: 30px;
+    border-radius: 50px;
+    border-color: red;
+}
+main #uva{
+    border: solid 3px rgb(46, 146, 0);
+    width: 30%;
+    margin: auto;
+    background-image: url(https://wallpapers.com/images/featured/fundo-de-cor-simples-4nyuafvmzjeboev9.jpg);
+    border-radius: 50px;
+}
+main #uva h3,p{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+
+}
+main #uva img{
+    width: 300px;
+    height: 300px;
+    display: block;
+    margin: auto;
+    padding: 30px;
+    border-radius: 50px;
+    border-color: red;
+}
+main #limao{
+    border: solid 3px rgb(7, 226, 25);
+    width: 30%;
+    margin: auto;
+    background-image: url(https://wallpapers.com/images/featured/fundo-de-cor-simples-4nyuafvmzjeboev9.jpg);
+    border-radius: 50px;
+}
+main #limao h3,p{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+
+}
+main #limao img{
+    width: 300px;
+    height: 300px;
+    display: block;
+    margin: auto;
+    padding: 30px;
+    border-radius: 50px;
+    border-color: red;
+}
+main #banana{
+    border: solid 3px rgb(176, 204, 18);
+    width: 30%;
+    margin: auto;
+    background-image: url(https://wallpapers.com/images/featured/fundo-de-cor-simples-4nyuafvmzjeboev9.jpg);
+    border-radius: 50px;
+}
+main #banana h3,p{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+
+}
+main #banana img{
+    width: 300px;
+    height: 300px;
+    display: block;
+    margin: auto;
+    padding: 30px;
+    border-radius: 50px;
+    border-color: red;
+}
+main #carolina{
+    border: solid 3px rgba(160, 128, 40, 0.555);
+    width: 30%;
+    margin: auto;
+    background-image: url(https://wallpapers.com/images/featured/fundo-de-cor-simples-4nyuafvmzjeboev9.jpg);
+    border-radius: 50px;
+}
+main #carolina h3,p{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+
+}
+main #carolina img{
     width: 300px;
     height: 300px;
     display: block;
